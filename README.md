@@ -11,5 +11,5 @@ Instructions on building and runing `LFRic` in two container platforms,
 [Docker CE](https://docs.docker.com/install/) and
 [Singularity](https://sylabs.io/docs/), are stored in two subdirectories:
 
-* [Docker](https://github.com/MetOffice/LFRic-Containers/blob/master/LFRIC/Docker/README.md);
-* [Singularity](https://github.com/MetOffice/LFRic-Containers/blob/master/LFRIC/singularity/README.md).
+* [Docker](https://github.com/MetOffice/LFRic-Containers/blob/master/Docker/README.md);
+* [Singularity](https://github.com/MetOffice/LFRic-Containers/blob/master/singularity/README.md).
